@@ -1,6 +1,6 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
+    "name": "Proxy",
+    "description": "Deploy proxy on Heroku.",
     "keywords": ["V2Ray"],
     "env": {
         "ID": {
